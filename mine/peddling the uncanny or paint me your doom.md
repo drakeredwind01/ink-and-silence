@@ -34,6 +34,7 @@ If I get to create my own savior.
 
 Verse 1
 If you're looking for the broken, go and search for what is vile,
+If you're looking for the broken, search for the mark of the vile,
 Count the teeth inside the jaws of a permanent smile.
 Count the teeth to find the pieces that they stole out of his soul,
 Every bite they took away just to make themselves feel whole.
@@ -58,3 +59,7 @@ Go ahead and clear the room, go ahead and paint me your doom—
 I’ll gladly be the monster that is stepping from the gloom.
 I have no problem adapting to your villainous behavior...
 If I'm the one who gets to create my own savior.
+
+
+You cannot break a system that was forged in a fire hotter than mine
+let reality catch up to my calculation
