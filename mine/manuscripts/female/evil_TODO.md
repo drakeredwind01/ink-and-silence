@@ -1,0 +1,10 @@
+# TODO — Amy/Amanda/Clare scene (evil_female_instant_cred)
+
+* **Amanda paragraph rewrite:** naming the subject "amanda" (instead of "her friend") fixed the identity-clarity problem, but the sentence is still one unbroken run with no punctuation, and "time seems to slow for amanda" is still a POV slip into her interiority in a scene otherwise locked to Amy's senses. Needs a real punctuation/POV pass, not just the pronoun swap.
+
+* **Epithet register consistency (open decision, not a fix):** candidate ways to refer to Clare without repeating her name — "the down trodden girl," "braceface," "the girl in the striped pajamas," "the girl with the lowest self-esteem." These aren't interchangeable: "down trodden girl" and "lowest self-esteem" read as Amy's own sympathetic framing; "braceface" reads like a cruel nickname borrowed from the bullies' vocabulary, not Amy's voice — could be a strong choice *if* deliberate (shows how pervasive the dehumanization is, even creeping into Amy's own head), but jarring if accidental. Pick per-instance based on whose perspective is bleeding into the narration at that moment, not at random.
+  * Flag: "the girl in the striped pajamas" carries a strong pre-existing association (*The Boy in the Striped Pyjamas*, Holocaust novel/film) — confirm that resonance is wanted before using it, since it imports weight from outside this story.
+
+* **Backlog reminder:** the whole Clare-entrance paragraph is still due a full punctuation/proofread pass (untill, cordinating, cafateria, carring, etc.) whenever the cleanup pass happens — not urgent, just don't forget it's rough.
+
+* **Term to remember: relational aggression.** The antagonist's technique — attacking a target's choices, relationships, and surroundings indirectly, wrapped in enough sweetness/faux-gratitude to keep plausible deniability — modeled on Marie Barone (Everybody Loves Raymond) and Bonnie Rockwaller (Kim Possible). Use this term deliberately when writing/refining her dialogue going forward.
