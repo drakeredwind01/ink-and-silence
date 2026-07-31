@@ -85,6 +85,20 @@ a lot less meek, a lot more brink.
 
 
 
+###
+never wrong
 
+when you question your lessons need re-adding
+when i teach with i use tested additives
+try to find the adjetives
+before i speak in percentages
+even 1 percent is _
+when your wrong there is no _
+it's better then you needing explitives
 
+i dont fail, i adjust algorithm
+it's not wrong when levels need to be reweighed
+how can you miss when your target is the glaid.
+with refinement there is no debt then to be paid.
+the only debt then to be paid, is the weights to be remade.
 
