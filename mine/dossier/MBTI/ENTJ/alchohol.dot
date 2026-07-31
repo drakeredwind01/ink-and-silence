@@ -1,0 +1,64 @@
+/* 
+  how to get to the different alchohols
+*/
+
+digraph AllSpiritsBecomeVodka {
+    rankdir=LR;
+    node [shape=box, style=filled, fillcolor="#f9f9f9", color="#cccccc", fontname="sans-serif"];
+    edge [color="#777777", arrowhead=vee];
+
+    // --- STANDARD PATHWAYS ---
+    grapes -> ferment_wine [label="ferment"];
+    ferment_wine -> wine;
+    wine -> distill_brandy [label="distill"];
+    distill_brandy -> brandy;
+    
+    grain -> ferment_beer [label="ferment"];
+    ferment_beer -> beer;
+    beer -> distill_whiskey [label="distill"];
+    distill_whiskey -> whiskey;
+
+    molasses -> ferment_rum [label="ferment"];
+    ferment_rum -> "sugar cane mash";
+    "sugar cane mash" -> distill_rum [label="distill"];
+    distill_rum -> rum;
+
+    honey -> water_down [label="water down"];
+    water_down -> "honey water";
+    "honey water" -> ferment_mead [label="ferment"];
+    ferment_mead -> mead;
+
+    // --- EVERY ROAD LEADS TO VODKA ---
+    // Mid-tier products can be stripped down
+    wine -> distill_vodka [style=dashed, color="#9c27b0"];
+    beer -> distill_vodka [style=dashed, color="#9c27b0"];
+    "sugar cane mash" -> distill_vodka [style=dashed, color="#9c27b0"];
+    mead -> distill_vodka [style=dashed, color="#9c27b0", label="strip to purity"];
+    
+    // Finished spirits can ALSO be recycled into vodka
+    brandy -> distill_vodka [style=dashed, color="#e91e63", label="re-distill"];
+    whiskey -> distill_vodka [style=dashed, color="#e91e63"];
+    rum -> distill_vodka [style=dashed, color="#e91e63"];
+
+    // Final destination
+    distill_vodka -> vodka;
+
+    // --- STYLING ---
+    ferment_wine, ferment_beer, ferment_rum, ferment_mead [label="ferment", shape=ellipse, fillcolor="#e1f5fe", color="#03a9f4"];
+    distill_brandy, distill_whiskey, distill_rum [label="distill", shape=ellipse, fillcolor="#fff3e0", color="#ff9800"];
+    
+    // The Ultimate Purifier node
+    distill_vodka [label="distill to 95%+", shape=doublecircle, fillcolor="#f3e5f5", color="#9c27b0"];
+    water_down [shape=ellipse, fillcolor="#e8f5e9", color="#4caf50"];
+    
+    vodka [fillcolor="#eceff1", color="#607d8b", penwidth=3];
+}
+
+// 	Ginger[label='Ginger(Zingiber_officinale)']-- is a delicious spice with a peppery yet sweet flavor. ...
+//     Garlic. Garlic (Allium sativum) is a popular spice with a strong smell and taste. ...
+//     Turmeric. ...
+//     Cardamom. ...
+//     Black pepper. ...
+//     Ginseng. ...
+//     Green tea. ...
+//     Rosemary.
