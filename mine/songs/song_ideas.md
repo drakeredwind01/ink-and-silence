@@ -88,17 +88,42 @@ a lot less meek, a lot more brink.
 ###
 never wrong
 
-when you question your lessons need re-adding
-when i teach with i use tested additives
-try to find the adjetives
+when i question your lessons they need re-adding
+when i teach i use tested adages
+then try to find the adjectives
 before i speak in percentages
-even 1 percent is _
-when your wrong there is no _
-it's better then you needing explitives
+when you're wrong you must fix damages
+even my 1 percent is enough for my messages
+it's better then you needing expletives
 
-i dont fail, i adjust algorithm
+your ideas are small darts when we compare
+mine are lawn darts people stop and stare
+they say, but drake, those are dangerous
+listen close i'll keep it simple
+perhaps it would if your target was a pimple
+but widen your mark don't close the temple
+let me word it again, let me give you a sample
+
+i dont fail, i adjust algorithms
 it's not wrong when levels need to be reweighed
-how can you miss when your target is the glaid.
+your mistake, a tiny target is your plague
+now you know the problem let's re-explain
+how can you miss when your target is the field.
 with refinement there is no debt then to be paid.
 the only debt then to be paid, is the weights to be remade.
+that's all you need if your target's set for fame.
+
+
+let the house teach you the only thing you need is the slightest edge
+the slightest angle is also the sharpest blade
+just keep them playing till theres no more money to be made.
+let them call you stupid
+let them say the edge is to small
+just keep them playing they have no idea how large your bankrole goes.
+write down their curses
+refine them to critiqs
+refine your self into what is sleek
+then strike them for under neathe
+
+
 
